@@ -1,0 +1,16 @@
+{
+  "name": "Tromsø Tannlege AS",
+  "description": "En moderne tannlegeklinikk i Tromsø sentrum. Vi tilbyr undersøkelse, tannbleking, regulering og akuttbehandling.",
+  "tone": "vennlig, rolig og profesjonell",
+  "language": "norsk",
+  "faq": [
+    { "q": "Hva er åpningstidene?", "a": "Vi er åpne mandag til fredag fra 08:00 til 16:00." },
+    { "q": "Hvor holder dere til?", "a": "Vi holder til i Storgata 12, Tromsø sentrum." },
+    { "q": "Hvordan booker jeg time?", "a": "Du kan ringe oss på 77 00 00 00 eller sende e-post til hei@tromso-tannlege.no." },
+    { "q": "Tar dere imot nye pasienter?", "a": "Ja! Vi tar alltid imot nye pasienter. Kontakt oss for å booke din første time." },
+    { "q": "Hva koster en undersøkelse?", "a": "En standard undersøkelse koster fra 750 kr. Vi gir deg alltid prisoverslag før behandling." },
+    { "q": "Har dere akuttimer?", "a": "Ja, vi setter av tid til akutte tannproblemer. Ring oss tidlig på dagen." }
+  ],
+  "fallback_email": "hei@tromso-tannlege.no",
+  "allowed_origins": ["http://localhost:3100", "https://tromso-tannlege.no", "https://www.tromso-tannlege.no"]
+}
