@@ -14,9 +14,9 @@ Eit ferdig produkt du kan vise potensielle kunder. Ikkje perfekt — berre godt 
 - [x] 1.2 Widget embedbar på kva som helst nettside (vanilla JS, ingen deps) ✓
 - [x] 1.3 Konfigurerbar via `business.config.json` (namn, tone, FAQ, fallback-epost) ✓
 - [x] 1.4 Demo-side med Bootstrap (Tromsø Tannlege AS, live bot) ✓
-- [ ] 1.5 Rate limiting + CORS per kunde (trengst før go-live)
-- [ ] 1.6 Fallback-varsling: "send meg til ein person" → e-post til eigar
-- [ ] 1.7 Deploy til Railway/Render — ekte URL, ikkje localhost
+- [x] 1.5 Rate limiting + CORS per kunde ✓
+- [x] 1.6 Fallback-varsling: "send meg til ein person" → e-post til eigar ✓
+- [x] 1.7 Deploy til Railway — live på kundebot-production.up.railway.app ✓
 
 **Sikkerheit (avklart):**
 - Innholdsfiltrering: Groq/Llama innebygd ✓
